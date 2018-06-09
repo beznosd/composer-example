@@ -1,0 +1,12 @@
+{
+    "name": "beznosd/composer-example",
+    "authors": [
+        {
+            "name": "Dima Beznos",
+            "email": "beznos.d@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
