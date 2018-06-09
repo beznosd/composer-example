@@ -30,8 +30,8 @@ Also in `/vendor` it automatically creates `autoload.php` which will be used to 
 
 ## Test app in 3 steps
 
-  - clon repo to your localhost
+  - clone repo to your localhost
   - run `composer install`
-  - open it in a browser (virtual host setup is not required)
+  - open it in a browser
 
 Example requires php 7
